@@ -3,4 +3,4 @@ description: 'FFI Bindings for NDI Advanced SDK (Android) 5.5.1'
 output: 'bindings\5.5.1\advanced_sdk_android\ndi_ffi_5.5.1_advanced_android.dart'
 headers:
   entry-points:
-    - 'bindings\5.5.1\advanced_sdk_android\include\Processing.NDI.Lib.h'
+    - 'bindings\5.5.1\advanced_sdk_android\include\Processing.NDI.Advanced.h'

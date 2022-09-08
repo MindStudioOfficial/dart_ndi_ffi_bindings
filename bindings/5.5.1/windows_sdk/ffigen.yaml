@@ -1,0 +1,6 @@
+name: 'NDIffi'
+description: 'FFI Bindings for NDI Windows SDK 5.5.1'
+output: 'bindings\5.5.1\windows_sdk\ndi_ffi_5.5.1_windows.dart'
+headers:
+  entry-points:
+    - 'bindings\5.5.1\windows_sdk\include\Processing.NDI.Lib.h'
